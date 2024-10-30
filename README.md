@@ -1,10 +1,15 @@
 <h1 align="center"> Olá, seja bem-vindo ao meu GitHub 😁👋</h1>
-<p>Me chamo Guilherme, sou estudante de Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e suas incríveis façanhas.</p>
-<p>Sinta-se a vontade para ver meus projetos e minha evolução como programador :)</p>
+<p>Me chamo Guilherme, sou formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo como desenvolvedor de software back-end especializado em .NET Core, microserviços e suas tecnologias, também com algumas atuações em projetos front-end utilizando Angular e TypeScript</p>
+<p>Sinta-se a vontade para acompanhar alguns dos meus projetos e minha evolução como programador :)</p>
 
-🧠 Meus principais estudos são:
--  Backend ǀ .NET Core.
--  Banco de Dados - SQL.
+🧠 Tecnologias e Ferramentas:
+-  .NET Core
+-  Microserviços
+-  SQL Server
+-  Entity Framework
+-  RabbitMQ
+-  Angular
+-  Docker
 -  Versionamento de Projetos.  
   
   <a href="https://github.com/raabelo11">
