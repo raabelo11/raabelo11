@@ -1,8 +1,9 @@
-<h1 align="center"> Olá, seja bem-vindo ao meu GitHub 😁👋</h1>
-<p>Me chamo Guilherme, sou formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo como desenvolvedor de software back-end especializado em .NET Core, microsserviços e suas tecnologias, também com algumas atuações em projetos front-end utilizando Angular e TypeScript</p>
-<p>Sinta-se a vontade para acompanhar alguns dos meus projetos e minha evolução como programador :)</p>
+<h1 align="center"> Hi, welcome to my GitHub 😁👋</h1>
+<p>My name is Guilherme, I have a degree in Systems Analysis and Development. I currently work as a back-end software developer specializing in .NET Core, microservices and its technologies, also with some work on front-end projects using Angular and TypeScript</p>
 
-🧠 Tecnologias e Ferramentas:
+<p>Feel free to follow some of my projects and my evolution as a programmer :)</p>
+
+🧠 Technologies and Tools Used:
 -  .NET Core
 -  Microserviços
 -  SQL Server
