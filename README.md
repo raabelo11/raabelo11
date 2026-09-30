@@ -113,7 +113,7 @@ Some of the projects I use to experiment with architecture, distributed systems 
 ### 📫 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/guilherme-lima-9a7b75171/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-rabelo-9a7b75171/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/raabelo11" target="_blank">
